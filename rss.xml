@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>一位Blog</title>
+        <subtitle>bit =&gt;byte KB MB GB TB ... 积跬步而行千里</subtitle>
+        <icon>http://owlcity2333.github.io/images/favicon.ico</icon>
+        <link>http://owlcity2333.github.io</link>
+        <author>
+          <name>别人都叫我老范</name>
+        </author>
+        <description>&lt;div style=&#39;font-size: 0.8em;&#39;&gt; I.is(null); &lt;br/&gt;If(U.appear()) &lt;br/&gt;I.turn(new World(&#39;Fill With Love&#39;)) &lt;br/&gt;// 我的世界 &lt;br/&gt;// 直至遇见你 &lt;br/&gt;// 才熠熠生辉 &lt;/div&gt; </description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 14 Feb 2021 13:50:02 +0800</pubDate>
+        <lastBuildDate>Sun, 14 Feb 2021 13:50:02 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://owlcity2333.github.io/article/java/basics/java-ji-chu/</guid>
+            <title>IO基础</title>
+            <link>http://owlcity2333.github.io/article/java/basics/java-ji-chu/</link>
+            <category term="java" scheme="http://owlcity2333.github.io/categories/java/" />
+            <category term="基础" scheme="http://owlcity2333.github.io/categories/java/basics/" />
+            <pubDate>Sun, 14 Feb 2021 13:50:02 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;strong&gt;IO 概念&lt;/strong&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://owlcity2333.github.io/article/hello-world/</guid>
+            <title>Hello World</title>
+            <link>http://owlcity2333.github.io/article/hello-world/</link>
+            <category term="hexo" scheme="http://owlcity2333.github.io/categories/hexo/" />
+            <category term="init" scheme="http://owlcity2333.github.io/categories/hexo/init/" />
+            <category term="教程" scheme="http://owlcity2333.github.io/categories/hexo/init/course/" />
+            <category term="hexo" scheme="http://owlcity2333.github.io/tags/hexo/" />
+            <pubDate>Sun, 14 Feb 2021 12:44:26 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
+&lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo new &lt;span class=&#34;token string&#34;&gt;&#34;My New Post&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvd3JpdGluZy5odG1s&#34;&gt;Writing&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;run-server&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#run-server&#34;&gt;#&lt;/a&gt; Run server&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvc2VydmVyLmh0bWw=&#34;&gt;Server&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;generate-static-files&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#generate-static-files&#34;&gt;#&lt;/a&gt; Generate static files&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvZ2VuZXJhdGluZy5odG1s&#34;&gt;Generating&lt;/span&gt;&lt;/p&gt;
+&lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
+&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;$ hexo deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://owlcity2333.github.io/article/test/</guid>
+            <title>图文博客</title>
+            <link>http://owlcity2333.github.io/article/test/</link>
+            <category term="路上" scheme="http://owlcity2333.github.io/tags/%E8%B7%AF%E4%B8%8A/" />
+            <pubDate>Sat, 13 Feb 2021 22:23:47 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;假装是一个旅行日志&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#假装是一个旅行日志&#34;&gt;#&lt;/a&gt; 假装是一个旅行日志&lt;/h2&gt;
+&lt;p&gt;1 去了 xxx&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://owlcity2333.github.io/article/ce-shi/</guid>
+            <title>测试转换</title>
+            <link>http://owlcity2333.github.io/article/ce-shi/</link>
+            <pubDate>Sat, 13 Feb 2021 22:23:47 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+    </channel>
+</rss>
