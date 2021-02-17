@@ -8,11 +8,23 @@
     <author>
       <name>别人都叫我老范</name>
     </author>
-    <updated>2021-02-14T05:50:02.777Z</updated>
+    <updated>2021-02-16T07:22:27.687Z</updated>
     <entry>
-        <id>http://owlcity2333.github.io/article/java/basics/java-ji-chu/</id>
+        <id>http://owlcity2333.github.io/test/</id>
+        <title>图文博客</title>
+        <link rel="alternate" href="http://owlcity2333.github.io/test/"/>
+        <content type="html">&lt;h2 id=&#34;假装是一个旅行日志&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#假装是一个旅行日志&#34;&gt;#&lt;/a&gt; 假装是一个旅行日志&lt;/h2&gt;
+&lt;p&gt;1 去了 xxx&lt;/p&gt;
+</content>
+        <category term="java" scheme="http://owlcity2333.github.io/categories/java/" />
+        <category term="基础" scheme="http://owlcity2333.github.io/categories/java/basics/" />
+        <category term="路上" scheme="http://owlcity2333.github.io/tags/%E8%B7%AF%E4%B8%8A/" />
+        <updated>2021-02-16T07:22:27.687Z</updated>
+    </entry>
+    <entry>
+        <id>http://owlcity2333.github.io/java/basics/java-ji-chu/</id>
         <title>IO基础</title>
-        <link rel="alternate" href="http://owlcity2333.github.io/article/java/basics/java-ji-chu/"/>
+        <link rel="alternate" href="http://owlcity2333.github.io/java/basics/java-ji-chu/"/>
         <content type="html">&lt;p&gt;&lt;strong&gt;IO 概念&lt;/strong&gt;&lt;/p&gt;
 </content>
         <category term="java" scheme="http://owlcity2333.github.io/categories/java/" />
@@ -20,9 +32,9 @@
         <updated>2021-02-14T05:50:02.777Z</updated>
     </entry>
     <entry>
-        <id>http://owlcity2333.github.io/article/hello-world/</id>
+        <id>http://owlcity2333.github.io/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://owlcity2333.github.io/article/hello-world/"/>
+        <link rel="alternate" href="http://owlcity2333.github.io/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
@@ -41,19 +53,9 @@
         <updated>2021-02-14T04:44:26.191Z</updated>
     </entry>
     <entry>
-        <id>http://owlcity2333.github.io/article/test/</id>
-        <title>图文博客</title>
-        <link rel="alternate" href="http://owlcity2333.github.io/article/test/"/>
-        <content type="html">&lt;h2 id=&#34;假装是一个旅行日志&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#假装是一个旅行日志&#34;&gt;#&lt;/a&gt; 假装是一个旅行日志&lt;/h2&gt;
-&lt;p&gt;1 去了 xxx&lt;/p&gt;
-</content>
-        <category term="路上" scheme="http://owlcity2333.github.io/tags/%E8%B7%AF%E4%B8%8A/" />
-        <updated>2021-02-13T14:23:47.464Z</updated>
-    </entry>
-    <entry>
-        <id>http://owlcity2333.github.io/article/ce-shi/</id>
+        <id>http://owlcity2333.github.io/ce-shi/</id>
         <title>测试转换</title>
-        <link rel="alternate" href="http://owlcity2333.github.io/article/ce-shi/"/>
+        <link rel="alternate" href="http://owlcity2333.github.io/ce-shi/"/>
         <content type="html"></content>
         <updated>2021-02-13T14:23:47.461Z</updated>
     </entry>

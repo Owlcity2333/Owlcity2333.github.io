@@ -10,12 +10,24 @@
         </author>
         <description>&lt;div style=&#39;font-size: 0.8em;&#39;&gt; I.is(null); &lt;br/&gt;If(U.appear()) &lt;br/&gt;I.turn(new World(&#39;Fill With Love&#39;)) &lt;br/&gt;// 我的世界 &lt;br/&gt;// 直至遇见你 &lt;br/&gt;// 才熠熠生辉 &lt;/div&gt; </description>
         <language>zh-CN</language>
-        <pubDate>Sun, 14 Feb 2021 13:50:02 +0800</pubDate>
-        <lastBuildDate>Sun, 14 Feb 2021 13:50:02 +0800</lastBuildDate>
+        <pubDate>Tue, 16 Feb 2021 15:22:27 +0800</pubDate>
+        <lastBuildDate>Tue, 16 Feb 2021 15:22:27 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://owlcity2333.github.io/article/java/basics/java-ji-chu/</guid>
+            <guid isPermalink="true">http://owlcity2333.github.io/test/</guid>
+            <title>图文博客</title>
+            <link>http://owlcity2333.github.io/test/</link>
+            <category term="java" scheme="http://owlcity2333.github.io/categories/java/" />
+            <category term="基础" scheme="http://owlcity2333.github.io/categories/java/basics/" />
+            <category term="路上" scheme="http://owlcity2333.github.io/tags/%E8%B7%AF%E4%B8%8A/" />
+            <pubDate>Tue, 16 Feb 2021 15:22:27 +0800</pubDate>
+            <description><![CDATA[ &lt;h2 id=&#34;假装是一个旅行日志&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#假装是一个旅行日志&#34;&gt;#&lt;/a&gt; 假装是一个旅行日志&lt;/h2&gt;
+&lt;p&gt;1 去了 xxx&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://owlcity2333.github.io/java/basics/java-ji-chu/</guid>
             <title>IO基础</title>
-            <link>http://owlcity2333.github.io/article/java/basics/java-ji-chu/</link>
+            <link>http://owlcity2333.github.io/java/basics/java-ji-chu/</link>
             <category term="java" scheme="http://owlcity2333.github.io/categories/java/" />
             <category term="基础" scheme="http://owlcity2333.github.io/categories/java/basics/" />
             <pubDate>Sun, 14 Feb 2021 13:50:02 +0800</pubDate>
@@ -23,9 +35,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://owlcity2333.github.io/article/hello-world/</guid>
+            <guid isPermalink="true">http://owlcity2333.github.io/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://owlcity2333.github.io/article/hello-world/</link>
+            <link>http://owlcity2333.github.io/hello-world/</link>
             <category term="hexo" scheme="http://owlcity2333.github.io/categories/hexo/" />
             <category term="init" scheme="http://owlcity2333.github.io/categories/hexo/init/" />
             <category term="教程" scheme="http://owlcity2333.github.io/categories/hexo/init/course/" />
@@ -44,19 +56,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://owlcity2333.github.io/article/test/</guid>
-            <title>图文博客</title>
-            <link>http://owlcity2333.github.io/article/test/</link>
-            <category term="路上" scheme="http://owlcity2333.github.io/tags/%E8%B7%AF%E4%B8%8A/" />
-            <pubDate>Sat, 13 Feb 2021 22:23:47 +0800</pubDate>
-            <description><![CDATA[ &lt;h2 id=&#34;假装是一个旅行日志&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#假装是一个旅行日志&#34;&gt;#&lt;/a&gt; 假装是一个旅行日志&lt;/h2&gt;
-&lt;p&gt;1 去了 xxx&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://owlcity2333.github.io/article/ce-shi/</guid>
+            <guid isPermalink="true">http://owlcity2333.github.io/ce-shi/</guid>
             <title>测试转换</title>
-            <link>http://owlcity2333.github.io/article/ce-shi/</link>
+            <link>http://owlcity2333.github.io/ce-shi/</link>
             <pubDate>Sat, 13 Feb 2021 22:23:47 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
