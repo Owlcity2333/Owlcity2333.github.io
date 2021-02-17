@@ -2102,7 +2102,6 @@ const algoliaSearch = function(pjax) {
     }),
 
     instantsearch.widgets.hits({
-      console.log("===== "+data.permalink);
       container: '#search-hits',
       templates: {
         item: function(data) {
