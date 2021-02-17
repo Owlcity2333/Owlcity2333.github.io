@@ -2106,7 +2106,7 @@ const algoliaSearch = function(pjax) {
       templates: {
         item: function(data) {
           var cats = data.categories ? '<span>'+data.categories.join('<i class="ic i-angle-right"></i>')+'</span>' : '';
-          return '<a href="' + data.permalink +'">'+cats+data._highlightResult.title.value+'test'+'</a>';
+          return '<a href="' + data.permalink +'">'+cats+data._highlightResult.title.value+'</a>';
           // return '<a href="'+ CONFIG.root + data.path +'">'+cats+data._highlightResult.title.value+'test'+'</a>';
         },
         empty: function(data) {
